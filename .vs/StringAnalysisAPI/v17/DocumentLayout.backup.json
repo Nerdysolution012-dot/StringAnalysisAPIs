@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|c:\\users\\nedysolution\\desktop\\stage1\\stringanalysisapi\\stringanalysisapi\\repository\\inmemorystringrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|solutionrelative:stringanalysisapi\\repository\\inmemorystringrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|c:\\users\\nedysolution\\desktop\\stage1\\stringanalysisapi\\stringanalysisapi\\controllers\\stringscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|solutionrelative:stringanalysisapi\\controllers\\stringscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|c:\\users\\nedysolution\\desktop\\stage1\\stringanalysisapi\\stringanalysisapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|solutionrelative:stringanalysisapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|c:\\users\\nedysolution\\desktop\\stage1\\stringanalysisapi\\stringanalysisapi\\model\\stringproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|solutionrelative:stringanalysisapi\\model\\stringproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|c:\\users\\nedysolution\\desktop\\stage1\\stringanalysisapi\\stringanalysisapi\\model\\stringmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|solutionrelative:stringanalysisapi\\model\\stringmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|c:\\users\\nedysolution\\desktop\\stage1\\stringanalysisapi\\stringanalysisapi\\stringanalysisapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|solutionrelative:stringanalysisapi\\stringanalysisapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|c:\\users\\nedysolution\\desktop\\stage1\\stringanalysisapi\\stringanalysisapi\\repository\\stringrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|solutionrelative:stringanalysisapi\\repository\\stringrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|c:\\users\\nedysolution\\desktop\\stage1\\stringanalysisapi\\stringanalysisapi\\helpers\\queryparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|solutionrelative:stringanalysisapi\\helpers\\queryparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|c:\\users\\nedysolution\\desktop\\stage1\\stringanalysisapi\\stringanalysisapi\\model\\parsedquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|solutionrelative:stringanalysisapi\\model\\parsedquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|c:\\users\\nedysolution\\desktop\\stage1\\stringanalysisapi\\stringanalysisapi\\services\\stringanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|solutionrelative:stringanalysisapi\\services\\stringanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|c:\\users\\nedysolution\\desktop\\stage1\\stringanalysisapi\\stringanalysisapi\\dto\\createstringrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186898DA-A093-47E2-975C-1ADC743E577E}|StringAnalysisAPI\\StringAnalysisAPI.csproj|solutionrelative:stringanalysisapi\\dto\\createstringrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InMemoryStringRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Repository\\InMemoryStringRepository.cs",
+              "RelativeDocumentMoniker": "StringAnalysisAPI\\Repository\\InMemoryStringRepository.cs",
+              "ToolTip": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Repository\\InMemoryStringRepository.cs",
+              "RelativeToolTip": "StringAnalysisAPI\\Repository\\InMemoryStringRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:01:58.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateStringRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\DTO\\CreateStringRequestDto.cs",
+              "RelativeDocumentMoniker": "StringAnalysisAPI\\DTO\\CreateStringRequestDto.cs",
+              "ToolTip": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\DTO\\CreateStringRequestDto.cs",
+              "RelativeToolTip": "StringAnalysisAPI\\DTO\\CreateStringRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:23:31.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringsController.cs",
+              "DocumentMoniker": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Controllers\\StringsController.cs",
+              "RelativeDocumentMoniker": "StringAnalysisAPI\\Controllers\\StringsController.cs",
+              "ToolTip": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Controllers\\StringsController.cs",
+              "RelativeToolTip": "StringAnalysisAPI\\Controllers\\StringsController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAuwGcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:22:01.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StringAnalysisAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Program.cs",
+              "RelativeToolTip": "StringAnalysisAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:25:50.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringProperties.cs",
+              "DocumentMoniker": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Model\\StringProperties.cs",
+              "RelativeDocumentMoniker": "StringAnalysisAPI\\Model\\StringProperties.cs",
+              "ToolTip": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Model\\StringProperties.cs",
+              "RelativeToolTip": "StringAnalysisAPI\\Model\\StringProperties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:18:24.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringModel.cs",
+              "DocumentMoniker": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Model\\StringModel.cs",
+              "RelativeDocumentMoniker": "StringAnalysisAPI\\Model\\StringModel.cs",
+              "ToolTip": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Model\\StringModel.cs",
+              "RelativeToolTip": "StringAnalysisAPI\\Model\\StringModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:19:25.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParsedQuery.cs",
+              "DocumentMoniker": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Model\\ParsedQuery.cs",
+              "RelativeDocumentMoniker": "StringAnalysisAPI\\Model\\ParsedQuery.cs",
+              "ToolTip": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Model\\ParsedQuery.cs",
+              "RelativeToolTip": "StringAnalysisAPI\\Model\\ParsedQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:33:29.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QueryParser.cs",
+              "DocumentMoniker": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Helpers\\QueryParser.cs",
+              "RelativeDocumentMoniker": "StringAnalysisAPI\\Helpers\\QueryParser.cs",
+              "ToolTip": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Helpers\\QueryParser.cs",
+              "RelativeToolTip": "StringAnalysisAPI\\Helpers\\QueryParser.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:34:42.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StringAnalysisAPI",
+              "DocumentMoniker": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\StringAnalysisAPI.csproj",
+              "RelativeDocumentMoniker": "StringAnalysisAPI\\StringAnalysisAPI.csproj",
+              "ToolTip": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\StringAnalysisAPI.csproj",
+              "RelativeToolTip": "StringAnalysisAPI\\StringAnalysisAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T18:16:46.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StringRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Repository\\StringRepository.cs",
+              "RelativeDocumentMoniker": "StringAnalysisAPI\\Repository\\StringRepository.cs",
+              "ToolTip": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Repository\\StringRepository.cs",
+              "RelativeToolTip": "StringAnalysisAPI\\Repository\\StringRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:37:03.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StringAnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Services\\StringAnalysisService.cs",
+              "RelativeDocumentMoniker": "StringAnalysisAPI\\Services\\StringAnalysisService.cs",
+              "ToolTip": "C:\\Users\\nedysolution\\Desktop\\stage1\\StringAnalysisAPI\\StringAnalysisAPI\\Services\\StringAnalysisService.cs",
+              "RelativeToolTip": "StringAnalysisAPI\\Services\\StringAnalysisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:20:00.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
